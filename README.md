@@ -1,4 +1,4 @@
-# Sistema Acadêmico Colaborativo com Apoio de IA (PIM II)
+# Sistema Acadêmico Colaborativo (PIM II)
 
 **Descrição**
 Projeto desenvolvido como PIM II do curso de Análise e Desenvolvimento de Sistemas (UNIP).
